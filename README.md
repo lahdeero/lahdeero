@@ -9,7 +9,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/zSN6p17t8Ws1
 ## Stats
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lahdeero&hide=html,css&layout=compact&count_private=true&theme=dark&langs_count=8" alt="stats" />
+ <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lahdeero&hide=html,css&layout=compact&count_private=true&theme=dark&langs_count=8" alt="stats" />
 </p>
 
 ## Languages
