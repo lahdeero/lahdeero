@@ -2,7 +2,7 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/zSN6p17t8Ws12/giphy.gif" width="60"> from Finland.
 
-- 🔭 Working as a Software Engineer
+- 🔭 Working as a Software Developer
 - ✨ Intrested in tech, finance and nature 
 - 🎲 Like to play board games, chess and computer games
 
